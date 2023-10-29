@@ -11,7 +11,7 @@ function Menu() {
         <div className='max-w-[1240px] mx-auto relative'>
             <div className='px-4 py-6'>
                 <h3 className='text-7xl font-semibold text-center text-yellow-500'>
-                     Our New Specialties
+                Le nostre nuove specialità
                 </h3>
             </div>
             <div className='grid grid-cols-1 tab:grid-cols-3 relative gap-x-12 tab:gap-x-4 lg:gap-x-12 gap-y-16 px-4 md:px-1 lg:px-4 pt-12 sm:pt-20'>
